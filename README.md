@@ -25,6 +25,26 @@ The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or 
 
 <br>
 
+### Sal's Shipping
+Sal's Shippers is the premier shipping company in the tri-county area, dedicated to providing customers with the most affordable and efficient shipping solutions. Our comprehensive range of shipping options ensures that your packages reach their destination safely and on time.
+<br>
+#### Shipping Options
+Sal's Shippers offers three distinct shipping options to cater to diverse customer needs and preferences:
+
+##### Ground Shipping: Our standard Ground Shipping service provides reliable and cost-effective delivery for packages of all weights. This option entails a flat fee plus a weight-based rate.
+
+##### Drone Shipping: Our innovative Drone Shipping service, currently in its pilot phase, revolutionizes package delivery by utilizing unmanned aerial vehicles. This option boasts no flat fee and charges a weight-based rate triple that of Ground Shipping, offering a competitive alternative for urgent deliveries.
+
+#### Determining the Cheapest Shipping Option
+To determine the most cost-effective shipping method for your package, follow these steps:
+
+1. Gather Package Information: Determine the weight of your package in pounds.
+
+2. Calculate Shipping Costs: For each shipping option, calculate the total shipping cost by adding the flat fee (if applicable) to the weight-based rate.
+
+4. Compare Shipping Costs: Compare the total shipping costs for each option to identify the cheapest method for your package.
+
+
 ### Enjoy!
 
 ### Evy Guenda
