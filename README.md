@@ -44,6 +44,40 @@ To determine the most cost-effective shipping method for your package, follow th
 
 4. Compare Shipping Costs: Compare the total shipping costs for each option to identify the cheapest method for your package.
 
+### Customer Data Organization
+This repository contains Python code to organize customer data for a web store business.
+
+- Instructions<br>
+1. The code is divided into seven checkpoints.
+2. Each checkpoint focuses on a specific task related to organizing customer data.
+3. Follow the instructions in each checkpoint to complete the tasks and practice your Python skills.
+
+1. Checkpoint 1: Creating a List<br>
+Create a list called first_names containing the following customer names in order: Ainsley Ben Chani Depak<br>
+2. Checkpoint 2: Creating a Two-Dimensional List <br>
+Create a list called preferred_sizes containing the following customer sizes: ["Small", "Large", "Medium"]<br>
+3. Checkpoint 3: Appending to a List <br>
+Add "Medium" to the preferred_sizes list using the .append() method.<br>
+Print the preferred_sizes list to see the updated data.<br>
+4. Checkpoint 4: Creating a Two-Dimensional List from Existing Data<br>
+Create a two-dimensional list called customer_data using the following table as a reference:<br>
+Name	Size	Expedited Shipping<br>
+Ainsley	Small	True<br>
+Ben	Large	False<br>
+Chani	Medium	True<br>
+Depak	Medium	False<br>
+Print the customer_data list to see the data.<br>
+5. Checkpoint 5: Modifying Data in a Two-Dimensional List<br>
+Change "Chani"'s shipping preference to False in the customer_data list.<br>
+6. Checkpoint 6: Removing Data from a Two-Dimensional List<br>
+Remove the shipping preference (True or False) from the sublist containing Ben's data in the customer_data list.<br>
+7. Checkpoint 7: Combining Two-Dimensional Lists<br>
+Create a new variable customer_data_final. <br>
+
+Combine the existing customer_data list with the following new customer data using the + operator:
+[["Amit", "Large", True], ["Karim", "X-Large", False]]<br>
+
+Print the customer_data_final list to see the combined data.
 
 ### Enjoy!
 
