@@ -79,6 +79,10 @@ Combine the existing customer_data list with the following new customer data usi
 
 Print the customer_data_final list to see the combined data.
 
+### Gradebook
+#### Overview <br>
+
+This Python script, "Gradebook," is designed to help students organize their subjects and grades efficiently. It utilizes Python lists to manage classes and associated scores. The script allows you to perform tasks such as creating lists of subjects and grades, combining them into a two-dimensional list, adding new subjects and grades, modifying grades, and finally, creating a comprehensive gradebook by combining the current semester's grades with the grades from the last semester.
 ### Enjoy!
 
 ### Evy Guenda
