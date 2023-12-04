@@ -85,5 +85,25 @@ Print the customer_data_final list to see the combined data.
 This Python script, "Gradebook," is designed to help students organize their subjects and grades efficiently. It utilizes Python lists to manage classes and associated scores. The script allows you to perform tasks such as creating lists of subjects and grades, combining them into a two-dimensional list, adding new subjects and grades, modifying grades, and finally, creating a comprehensive gradebook by combining the current semester's grades with the grades from the last semester.
 ### Enjoy!
 
+### Len's Slice
+Welcome to Len's Slice, the go-to pizza joint in the neighborhood! In this project, we'll be using Python lists to organize sales data. Follow the tasks below to complete the project.
+
+<b>Tasks
+- Create a list called toppings to keep track of pizza varieties.
+- Create a list called prices with corresponding prices for each pizza slice.
+- Count the occurrences of $2 slices and store the result in num_two_dollar_slices.
+- Find the length of the toppings list and store it in num_pizzas.
+- Print the number of different kinds of pizza: "We sell [num_pizzas] different kinds of pizza!"
+- Create a two-dimensional list called pizza_and_prices with prices before topping names.
+- Print the contents of pizza_and_prices.
+- Sort pizza_and_prices in ascending order based on price.
+- Store the cheapest pizza in a variable called cheapest_pizza.
+- Store the priciest pizza in a variable called priciest_pizza.
+- Remove the last item from pizza_and_prices since it's the priciest pizza.
+- Add a new topping called "peppers" with price [2.5, "peppers"] to pizza_and_prices.
+- Slice pizza_and_prices to get the three cheapest pizzas and store them in three_cheapest.
+- Print the list of the three cheapest pizzas.
+
+  ### Enjoy!
 ### Evy Guenda
 
