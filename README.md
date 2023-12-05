@@ -104,6 +104,9 @@ Welcome to Len's Slice, the go-to pizza joint in the neighborhood! In this proje
 - Slice pizza_and_prices to get the three cheapest pizzas and store them in three_cheapest.
 - Print the list of the three cheapest pizzas.
 
+### Loop Practice
+The main goal of this exercise is to reinforce your understanding of loops by creating and manipulating lists of numbers, squaring them, and computing cubes using different loop techniques.
+
   ### Enjoy!
 ### Evy Guenda
 
