@@ -124,6 +124,8 @@ For instance, the "bouffant" hairstyle has a corresponding price of 30 from the 
 <b>Analysis Process</b><br>
 I utilized Python and Jupyter Notebook for the analysis, employing fundamental data analysis techniques to derive meaningful insights from the provided data. The analysis includes calculations of various metrics, such as total revenue, average price, and popular hairstyles based on last week's purchases.
 
+### TripPlanner V1.0 <br>
+Hey there! Welcome to TripPlanner V1.0, where we're about to embark on a coding journey using the awesome power of functions. In this lesson, I've covered some fundamental programming concepts, and now it's time to put that knowledge into action!
 
 ### Evy Guenda
 
