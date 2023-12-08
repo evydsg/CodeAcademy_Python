@@ -88,7 +88,7 @@ This Python script, "Gradebook," is designed to help students organize their sub
 ### Len's Slice
 Welcome to Len's Slice, the go-to pizza joint in the neighborhood! In this project, we'll be using Python lists to organize sales data. Follow the tasks below to complete the project.
 
-<b>Tasks
+<b>Tasks</b>
 - Create a list called toppings to keep track of pizza varieties.
 - Create a list called prices with corresponding prices for each pizza slice.
 - Count the occurrences of $2 slices and store the result in num_two_dollar_slices.
@@ -108,5 +108,22 @@ Welcome to Len's Slice, the go-to pizza joint in the neighborhood! In this proje
 The main goal of this exercise is to reinforce your understanding of loops by creating and manipulating lists of numbers, squaring them, and computing cubes using different loop techniques.
 
   ### Enjoy!
+
+### Carly's Clippers Data Analysis
+Welcome to the Carly's Clippers Data Analysis project! As the Data Analyst at Carly’s Clippers, I delved into the collected data from the past weeks to calculate essential metrics for planning the business operations for the remainder of the month.<br>
+
+#### Project Overview
+<b>Data Lists:</b><br>
+<b>hairstyles:</b> A list containing the names of the cuts offered at Carly’s Clippers.<br>
+<b>prices:</b> Prices associated with each hairstyle in the hairstyles list.<br>
+<b>last_week:</b> The number of purchases for each hairstyle type in the last week.<br>
+Each index in the hairstyles list corresponds to an associated index in the prices and last_week lists.<br>
+
+For instance, the "bouffant" hairstyle has a corresponding price of 30 from the prices list and was purchased 2 times in the last week, as indicated in the last_week list. Each of these elements aligns with the first index of their respective lists.
+
+<b>Analysis Process</b><br>
+I utilized Python and Jupyter Notebook for the analysis, employing fundamental data analysis techniques to derive meaningful insights from the provided data. The analysis includes calculations of various metrics, such as total revenue, average price, and popular hairstyles based on last week's purchases.
+
+
 ### Evy Guenda
 
