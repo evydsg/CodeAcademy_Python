@@ -152,5 +152,11 @@ This Python script includes a function designed to determine if one number is tw
 ### Divisible By Ten Checker
 #### Overview
 This Python script features a function designed to determine whether a given number is divisible by ten. By following a few steps, you can easily check if a number can be evenly divided by 10.
+
+### In Range Checker
+#### Overview
+This Python script introduces a function designed to test if a given number falls within a specified range. By following a few steps, you can easily determine if a number is within the defined lower and upper bounds.
+
+Usage
 ### Evy Guenda
 
