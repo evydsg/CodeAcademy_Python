@@ -147,5 +147,10 @@ This Python script includes a function designed to test whether the result of ra
 ### Twice As Large Checker
 #### Overview
 This Python script includes a function designed to determine if one number is twice as large as another. By following a few steps, you can easily compare two numbers and check if the first number is twice the size of the second.
+
+
+### Divisible By Ten Checker
+#### Overview
+This Python script features a function designed to determine whether a given number is divisible by ten. By following a few steps, you can easily check if a number can be evenly divided by 10.
 ### Evy Guenda
 
