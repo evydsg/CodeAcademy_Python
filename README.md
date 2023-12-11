@@ -181,5 +181,16 @@ This Python script features a function designed to calculate the length of a giv
 #### Overview
 This Python script features a function designed to calculate the sum of the last two elements of a given list and appends this sum to the end. The process is repeated two more times, resulting in a modified list.
 
+### Larger List Identifier
+#### Overview
+This Python script features a function designed to compare two conveyor belts represented by lists of numerical IDs. The function checks if one belt contains more items than the other and returns the ID of the last item accordingly. If the belts have the same number of items, the last item from the first belt is returned. 
+
+### More Than N Checker
+#### Overview
+This Python script introduces a function designed to check if a specific type of snack appears more times than a specified number on a conveyor belt. The function accepts three parameters: a list of numbers representing the types of snacks, a number to search for, and the maximum allowed number of occurrences.<br>
+
+### Combine Sorter
+#### Overview
+This Python script features a function designed to combine two different lists and then sort the combined list. The function accepts two parameters, each representing a list, and performs the necessary operations to combine and sort them. 
 ### Evy Guenda
 
