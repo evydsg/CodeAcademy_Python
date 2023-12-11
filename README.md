@@ -173,5 +173,13 @@ This Python script introduces a function designed to rate movies based on their 
 #### Overview
 This Python script introduces a function designed to determine the greatest number among three input values. The function evaluates different combinations of values using conditional statements to identify the maximum number. 
 
+### Append Size Calculator
+#### Overview
+This Python script features a function designed to calculate the length of a given list and then append that length to the end of the list. The modified list is then returned, allowing for easy integration into your Python projects. 
+
+### Append Sum Calculator
+#### Overview
+This Python script features a function designed to calculate the sum of the last two elements of a given list and appends this sum to the end. The process is repeated two more times, resulting in a modified list.
+
 ### Evy Guenda
 
