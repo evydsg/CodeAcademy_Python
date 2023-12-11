@@ -160,5 +160,18 @@ This Python script introduces a function designed to test if a given number fall
 ### Same Name Checker
 #### Overview
 This Python script features a function designed to compare two strings and determine if they are equal. By following a few steps, you can easily check if two names are the same.
+
+### Always False Checker
+#### Overview
+This Python script features a function intentionally designed with a contradiction in the if statement, leading to a condition that will always be false. This serves as an example to highlight situations to avoid when programming with conditional statements.
+
+### Movie Review Rater
+#### Overview
+This Python script introduces a function designed to rate movies based on their ratings. The function categorizes the ratings into different ranges and provides corresponding feedback to the user, helping them decide whether to watch the movie. 
+
+### Max Number Selector
+#### Overview
+This Python script introduces a function designed to determine the greatest number among three input values. The function evaluates different combinations of values using conditional statements to identify the maximum number. 
+
 ### Evy Guenda
 
