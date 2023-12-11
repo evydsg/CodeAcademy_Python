@@ -127,5 +127,14 @@ I utilized Python and Jupyter Notebook for the analysis, employing fundamental d
 ### TripPlanner V1.0 <br>
 Hey there! Welcome to TripPlanner V1.0, where we're about to embark on a coding journey using the awesome power of functions. In this lesson, I've covered some fundamental programming concepts, and now it's time to put that knowledge into action!
 
+### Physics Calculator <br>
+Welcome to the Physics Calculator GitHub repository! This project is designed to assist physics students by providing functions to calculate fundamental physical properties. As a physics teacher, you can use these functions to make learning and teaching physics more interactive.<br>
+
+<b>Table of Contents</b><br>
+- Temperature Conversion
+- Force Calculation
+- Energy Calculation
+- Work Calculation
+
 ### Evy Guenda
 
