@@ -140,5 +140,9 @@ Welcome to the Physics Calculator GitHub repository! This project is designed to
 #### Overview
 This simple Python script is designed to help you manage your monthly budget by determining whether your total expenses exceed the allocated budget. By following a few straightforward steps, you can effortlessly keep your finances in check.
 
+### Large Power Checker
+#### Overview
+This Python script includes a function designed to test whether the result of raising one number to the power of another exceeds 5000. By following a few steps, you can easily determine whether the calculated power is large or not.
+
 ### Evy Guenda
 
