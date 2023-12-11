@@ -157,6 +157,8 @@ This Python script features a function designed to determine whether a given num
 #### Overview
 This Python script introduces a function designed to test if a given number falls within a specified range. By following a few steps, you can easily determine if a number is within the defined lower and upper bounds.
 
-Usage
+### Same Name Checker
+#### Overview
+This Python script features a function designed to compare two strings and determine if they are equal. By following a few steps, you can easily check if two names are the same.
 ### Evy Guenda
 
