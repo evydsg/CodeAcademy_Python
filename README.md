@@ -136,5 +136,9 @@ Welcome to the Physics Calculator GitHub repository! This project is designed to
 - Energy Calculation
 - Work Calculation
 
+### Monthly Budget Checker
+#### Overview
+This simple Python script is designed to help you manage your monthly budget by determining whether your total expenses exceed the allocated budget. By following a few straightforward steps, you can effortlessly keep your finances in check.
+
 ### Evy Guenda
 
