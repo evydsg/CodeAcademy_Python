@@ -211,7 +211,11 @@ Welcome to the "Double Index" repository! This project contains a Python functio
 
 ### Middle Item
 #### Overview
-Welcome to the "Middle Item" repository! This project contains a Python function that finds the middle item from a list of values. The behavior will differ based on whether there are an odd or even number of values in the list.
+Welcome to the "Middle Item" repository! This project contains a Python function that finds the middle item from a list of values. The behavior will differ based on whether there are an odd or even number of values in the list.<br>
+
+### Larger Sum
+#### Overview
+Welcome to the "Larger Sum" repository! This project contains a Python function that calculates which of two lists has the larger sum.<br>
 
 
 ### Divisible By Ten Using Loops
