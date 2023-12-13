@@ -192,5 +192,9 @@ This Python script introduces a function designed to check if a specific type of
 ### Combine Sorter
 #### Overview
 This Python script features a function designed to combine two different lists and then sort the combined list. The function accepts two parameters, each representing a list, and performs the necessary operations to combine and sort them. 
+
+### Every Three Numbers
+#### Overview
+Welcome to the "Every Three Numbers" repository! This project contains a simple Python function that generates a list of numbers up to 100, with increments of 3 starting from a given input parameter.
 ### Evy Guenda
 
