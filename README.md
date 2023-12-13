@@ -213,5 +213,9 @@ Welcome to the "Double Index" repository! This project contains a Python functio
 #### Overview
 Welcome to the "Middle Item" repository! This project contains a Python function that finds the middle item from a list of values. The behavior will differ based on whether there are an odd or even number of values in the list.
 
+
+### Divisible By Ten
+#### Overview
+Welcome to the "Divisible By Ten" repository! This project contains a Python function that counts how many numbers are divisible by ten from a given list of numbers.
 ### Evy Guenda
 
