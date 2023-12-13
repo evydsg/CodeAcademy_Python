@@ -214,8 +214,22 @@ Welcome to the "Double Index" repository! This project contains a Python functio
 Welcome to the "Middle Item" repository! This project contains a Python function that finds the middle item from a list of values. The behavior will differ based on whether there are an odd or even number of values in the list.
 
 
-### Divisible By Ten
+### Divisible By Ten Using Loops
 #### Overview
 Welcome to the "Divisible By Ten" repository! This project contains a Python function that counts how many numbers are divisible by ten from a given list of numbers.
+
+### Greetings
+#### Overview
+Welcome to the "Greetings" repository! This project contains a Python function that takes a list of names and prepends the string 'Hello, ' before each name.
+
+
+### Odd Indices
+#### Overview
+Welcome to the "Odd Indices" repository! This project contains a Python function that retrieves the values from a list at every odd index.<br>
+
+### Exponents
+#### Overview
+Welcome to the "Exponents" repository! This project contains a Python function that calculates the exponentiation of a list of numbers to the power of another list of numbers.
+
 ### Evy Guenda
 
