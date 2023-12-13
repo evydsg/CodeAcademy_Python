@@ -235,5 +235,17 @@ Welcome to the "Odd Indices" repository! This project contains a Python function
 #### Overview
 Welcome to the "Exponents" repository! This project contains a Python function that calculates the exponentiation of a list of numbers to the power of another list of numbers.
 
+### Over 9000
+#### Overview
+Welcome to the "Over 9000" repository! This project contains a Python function that iterates through a list of numbers, counting up the numbers until the sum reaches a value greater than 9000.
+
+### Same Values
+#### Overview
+Welcome to the "Same Values" repository! This project contains a Python function that finds the indices where the numbers match in two equally sized lists.
+
+### Reversed List
+#### Overview
+Welcome to the "Reversed List" repository! This project contains a Python function that tests whether the second list is the reverse of the first list.
+
 ### Evy Guenda
 
