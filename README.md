@@ -196,5 +196,10 @@ This Python script features a function designed to combine two different lists a
 ### Every Three Numbers
 #### Overview
 Welcome to the "Every Three Numbers" repository! This project contains a simple Python function that generates a list of numbers up to 100, with increments of 3 starting from a given input parameter.
+
+### Remove Middle
+#### Overview
+Welcome to the "Remove Middle" repository! This project contains a Python function that removes all elements from a list with an index within a specified range. The function accepts a list, a starting index, and an ending index. All elements with an index between the starting and ending index (inclusive) will be removed from the list.
+
 ### Evy Guenda
 
