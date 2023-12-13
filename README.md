@@ -205,5 +205,9 @@ Welcome to the "Remove Middle" repository! This project contains a Python functi
 #### Overview
 Welcome to the "More Frequent Item" repository! This project contains a Python function that compares the frequency of two items in a list and returns the item that appears more frequently. The function accepts three parameters: the list of items, the first item to compare, and the second item to compare.
 
+### Double Index
+#### Overview
+Welcome to the "Double Index" repository! This project contains a Python function that doubles the value at a given position in a list. The function accepts two parameters: a list and the index of the value to double.
+
 ### Evy Guenda
 
