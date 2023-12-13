@@ -209,5 +209,9 @@ Welcome to the "More Frequent Item" repository! This project contains a Python f
 #### Overview
 Welcome to the "Double Index" repository! This project contains a Python function that doubles the value at a given position in a list. The function accepts two parameters: a list and the index of the value to double.
 
+### Middle Item
+#### Overview
+Welcome to the "Middle Item" repository! This project contains a Python function that finds the middle item from a list of values. The behavior will differ based on whether there are an odd or even number of values in the list.
+
 ### Evy Guenda
 
