@@ -201,5 +201,9 @@ Welcome to the "Every Three Numbers" repository! This project contains a simple 
 #### Overview
 Welcome to the "Remove Middle" repository! This project contains a Python function that removes all elements from a list with an index within a specified range. The function accepts a list, a starting index, and an ending index. All elements with an index between the starting and ending index (inclusive) will be removed from the list.
 
+### More Frequent Item
+#### Overview
+Welcome to the "More Frequent Item" repository! This project contains a Python function that compares the frequency of two items in a list and returns the item that appears more frequently. The function accepts three parameters: the list of items, the first item to compare, and the second item to compare.
+
 ### Evy Guenda
 
