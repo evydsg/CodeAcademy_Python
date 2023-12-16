@@ -247,5 +247,22 @@ Welcome to the "Same Values" repository! This project contains a Python function
 #### Overview
 Welcome to the "Reversed List" repository! This project contains a Python function that tests whether the second list is the reverse of the first list.
 
+### String Methods README
+#### Overview
+Welcome to the String Methods repository! This repository serves as a guide to the powerful world of string methods in Python. If you find yourself working with strings, these methods will likely become invaluable tools in your coding arsenal.
+
+#### What You've Learned
+In this lesson, we covered various string methods that can help you manipulate and work with strings efficiently. Here's a quick recap of what you've learned:
+
+- upper(), .title(), and .lower(): Adjust the casing of your string.
+- split(): Takes a string and creates a list of substrings.
+- join(): Takes a list of strings and creates a new string.
+- strip(): Cleans off whitespace or other noise from the beginning and end of a string.
+- replace(): Replaces all instances of a character or string in a string with another character or string.
+- find(): Searches a string for a character or string and returns the index value where it is found.
+- format(): Allows you to interpolate a string with variables.
+
+
 ### Evy Guenda
+
 
