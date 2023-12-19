@@ -262,6 +262,9 @@ In this lesson, we covered various string methods that can help you manipulate a
 - find(): Searches a string for a character or string and returns the index value where it is found.
 - format(): Allows you to interpolate a string with variables.
 
+### Thread Shed
+#### Overview
+Welcome to the Thread Shed repository! In this project, we'll be working with Python to clean up transaction data from the local sewing hobby shop, Thread Shed. The goal is to extract meaningful information such as customer names, sales amounts, and types of thread purchased from a large and unwieldy string called daily_sales.
 
 ### Evy Guenda
 
