@@ -61,3 +61,35 @@ Throughout this project, I'll be completing the following tasks:
 ## Project Completion
 Yay! Congratulations on completing the Lovely Loveseats Receipt System project! With this system in place, I'm ready to efficiently generate receipts for my customers and provide excellent service at Lovely Loveseats.
 
+# Magic 8-Ball Project
+
+## Introduction
+
+Welcome to my Magic 8-Ball project! The Magic 8-Ball is a timeless toy that provides amusing answers to yes or no questions. In this Python project, `magic8.py`, I'll be bringing the Magic 8-Ball to life using programming, allowing users to ask questions and receive mysterious responses.
+
+## Project Details
+
+This project involves creating a Python program that mimics the functionality of a Magic 8-Ball. Users can ask yes or no questions, and the program will generate random responses from a predefined set of answers. Throughout the project, I'll set up variables, generate random numbers, implement control flow, and display the results to the user.
+
+## Tasks
+
+In this project, I'll complete the following tasks:
+
+1. **Setting up**: Declare variables to store the name of the person asking the question, the question itself, and the Magic 8-Ball's answer.
+
+2. **Generating a random number**: Utilize the `random.randint()` function to generate a random number between 1 and 9.
+
+3. **Control Flow**: Use conditional statements (`if`, `elif`, `else`) to assign different answers based on the randomly generated number.
+
+4. **Displaying the result**: Print the user's question, along with the Magic 8-Ball's answer, to the console in a specified format.
+
+## Implementation
+
+To run the Magic 8-Ball program, simply execute the `magic8.py` file in your Python environment. Follow the prompts to ask a yes or no question and receive an enigmatic response from the Magic 8-Ball.
+
+## Let's Get Started!
+
+Join me on this journey into the realm of possibilities with the Magic 8-Ball. Ask your burning questions and unlock the secrets that lie within!
+
+**Note**: Run the program multiple times to experience different answers each time.
+
