@@ -93,3 +93,38 @@ Join me on this journey into the realm of possibilities with the Magic 8-Ball. A
 
 **Note**: Run the program multiple times to experience different answers each time.
 
+# My Sal's Shipping Project
+
+## Introduction
+
+Welcome to my Sal's Shipping program! I'm excited to present this Python project, `shipping.py`, where I'll be building a program to determine the cheapest method of shipping a package based on its weight. 
+
+Sal's Shippers is committed to offering the best and most affordable shipping options for its customers. With this project, I aim to implement a solution that accurately calculates shipping costs and helps customers make informed decisions.
+
+## Project Details
+
+This project involves creating a Python program that prompts the user for the weight of their package and calculates the shipping cost using Sal's Shippers' pricing structure. By comparing the costs of ground shipping, ground shipping premium, and drone shipping, the program will identify the most cost-effective option for the customer.
+
+## Tasks
+
+Throughout this project, I will complete the following tasks:
+
+1. Define a weight variable to represent the weight of the package.
+2. Calculate the cost of ground shipping based on the weight using an if/elif/else statement.
+3. Print the cost of ground shipping.
+4. Define the cost of premium ground shipping.
+5. Print the cost of premium ground shipping.
+6. Calculate the cost of drone shipping based on the weight using an if/elif/else statement.
+7. Print the cost of drone shipping.
+8. Test the program with different package weights to verify the calculations.
+9. Check off all tasks before proceeding.
+
+## Implementation
+
+To utilize the program, simply execute the `shipping.py` file in your Python environment. Follow the prompts to enter the weight of your package, and the program will determine the cheapest shipping method and display the total cost.
+
+Feel free to experiment with different package weights to see how the shipping costs vary.
+
+## Let's Get Started!
+
+Join me in exploring the world of shipping costs with Sal's Shippers. Let's find the most affordable shipping option for your package!
