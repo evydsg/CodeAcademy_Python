@@ -128,3 +128,34 @@ Feel free to experiment with different package weights to see how the shipping c
 ## Let's Get Started!
 
 Join me in exploring the world of shipping costs with Sal's Shippers. Let's find the most affordable shipping option for your package!
+
+# Gradebook Project
+
+## Introduction
+
+As a diligent student, I strive to organize my subjects and grades effectively using Python. This Gradebook project allows me to apply my knowledge of lists to manage my academic data efficiently.
+
+## Tasks Overview
+
+In this project, I completed the following tasks to organize my subjects and grades:
+
+1. Created lists of subjects and grades.
+2. Combined subjects and grades into a two-dimensional list.
+3. Added new subjects and corresponding grades.
+4. Modified grades and switched to a Pass/Fail option.
+5. Combined last semester's gradebook with the current one to create a comprehensive record.
+
+## Tasks Completion
+
+I successfully completed all 10 tasks, ensuring that my gradebook is well-organized and up-to-date.
+
+## Implementation
+
+To utilize this gradebook project, simply run the Python script provided. Follow the prompts to execute each task and observe the changes to the gradebook accordingly.
+
+Feel free to modify the script or extend its functionality to suit your own academic needs.
+
+## Let's Get Started!
+
+Join me on this journey to organize and manage my academic subjects and grades effectively using Python!
+
