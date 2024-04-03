@@ -159,3 +159,37 @@ Feel free to modify the script or extend its functionality to suit your own acad
 
 Join me on this journey to organize and manage my academic subjects and grades effectively using Python!
 
+# Len's Slice Pizza Joint
+
+## Introduction
+
+Welcome to Len's Slice, the newest pizza joint in the neighborhood! In this project, I'm utilizing my Python skills to organize some of our sales data using Python lists. Let's dive in and see what we can accomplish!
+
+## Tasks Overview
+
+I completed the following tasks to organize our pizza sales data effectively:
+
+1. Created a list of pizza toppings.
+2. Created a list of pizza prices.
+3. Researched $2 slices and counted their occurrences.
+4. Determined the number of different kinds of pizza.
+5. Printed the total number of different kinds of pizza sold.
+6. Created a two-dimensional list combining pizza toppings and prices.
+7. Printed the newly created list.
+8. Sorted the list of pizza toppings and prices in ascending order based on price.
+9. Stored the cheapest pizza in a variable.
+10. Stored the priciest pizza in a variable.
+11. Removed the last slice of the most expensive pizza from the list.
+12. Added a new topping called "peppers" to the list.
+13. Sliced the list to store the three cheapest pizzas.
+14. Printed the list of three cheapest pizzas.
+
+## Implementation
+
+To utilize this project, simply run the Python script provided. Follow the prompts to execute each task and observe the changes to the pizza data accordingly.
+
+Feel free to modify the script or extend its functionality to suit your own needs.
+
+## Let's Get Cooking!
+
+Join us at Len's Slice as we organize our pizza sales data and serve up some delicious slices to our customers!
