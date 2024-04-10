@@ -193,3 +193,18 @@ Feel free to modify the script or extend its functionality to suit your own need
 ## Let's Get Cooking!
 
 Join us at Len's Slice as we organize our pizza sales data and serve up some delicious slices to our customers!
+
+# Loop Control: Break
+
+As a Python programmer, I understand that loops are incredibly versatile, but sometimes I need more control over their execution. Python provides a set of control statements that allow me to exert even more control over my loops.
+
+## Understanding the Scenario
+
+Let's consider a common scenario: searching for a specific value in a list. Suppose we have a list named `items_on_sale`, which contains various items. Our task is to search for a specific item, such as "knit dress", and print "Found it" if it exists in the list.
+
+```python
+items_on_sale = ["blue shirt", "striped socks", "knit dress", "red headband", "dinosaur onesie"]
+
+for item in items_on_sale:
+    if item == "knit dress":
+        print("Found it")
