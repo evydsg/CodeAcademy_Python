@@ -208,3 +208,19 @@ items_on_sale = ["blue shirt", "striped socks", "knit dress", "red headband", "d
 for item in items_on_sale:
     if item == "knit dress":
         print("Found it")
+
+# Loop Control: Continue
+
+As a Python programmer, I often encounter situations where I need to skip certain iterations of a loop without terminating the loop entirely. In such cases, the `continue` control statement comes in handy.
+
+## Understanding the Scenario
+
+Suppose we have a list of integers called `big_number_list`, and our task is to print out all the positive integers from this list.
+
+```python
+big_number_list = [1, 2, -1, 4, -5, 5, 2, -9]
+
+for i in big_number_list:
+    if i <= 0:
+        continue
+    print(i)
