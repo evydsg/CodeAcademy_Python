@@ -224,3 +224,21 @@ for i in big_number_list:
     if i <= 0:
         continue
     print(i)
+
+
+# Nested Loops
+
+In Python, we can nest loops, meaning we can have one loop inside another. This is particularly useful in situations where we have nested data structures, like lists of lists.
+
+## Understanding Nested Loops
+
+Consider a scenario where we have a list of project teams, and each team consists of multiple students. We want to print out each individual student's name. To achieve this, we need to use nested loops.
+
+```python
+project_teams = [["Ava", "Samantha", "James"], ["Lucille", "Zed"], ["Edgar", "Gabriel"]]
+
+# Loop through each sublist
+for team in project_teams:
+    # Loop through each element in the sublist
+    for student in team:
+        print(student)
